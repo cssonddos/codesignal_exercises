@@ -1,2 +1,4 @@
-# codesignal_exercises
-app.codesignal solutions
+# Repository with solutions submitted on CodeSignal website
+
+
+https://app.codesignal.com/
